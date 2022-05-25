@@ -1,7 +1,7 @@
 const canvas =
 {
-    w: window.screen.availWidth * .95,
-    h: window.screen.availHeight * .8,
+    w: window.innerWidth * .9,
+    h: window.innerHeight  * .9,
     html: document.getElementById("canvas")
 }
 
