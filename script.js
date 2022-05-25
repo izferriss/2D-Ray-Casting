@@ -36,7 +36,7 @@ document.addEventListener('mousemove', function(e)
     mousePos = getMousePos(canvas, e);
 });
 
-document.addEventListener('touchstart', function(e)
+document.addEventListener('touchmove', function(e)
 {
     mousePos = getTouchPos(canvas, e)
 });
