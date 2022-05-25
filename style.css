@@ -3,6 +3,13 @@
     font-family: monospace;
     overflow: hidden;
     text-align: center;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -youbkit-touch-callout: none;
+    -youbkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;      
+    user-select: none;            
 }
 
 body
